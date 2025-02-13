@@ -1,0 +1,1 @@
+export type IconName = 'arm-flex' | 'human' | 'yoga' | 'food-apple' | 'food' | 'food-turkey' | 'dumbbell' | 'bell' | 'shield' | 'help-circle' | 'chevron-right' | 'chart-timeline-variant' | 'silverware-fork-knife' | 'account'; 
