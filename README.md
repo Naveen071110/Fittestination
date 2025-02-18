@@ -56,7 +56,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any questions or support, contact **your.email@example.com**.
+For any questions or support, contact **singhnaveen360@gmail.com**.
 
 
 # Expo Router Example
